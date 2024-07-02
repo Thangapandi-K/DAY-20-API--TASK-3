@@ -1,6 +1,8 @@
 ## PROMISE TASK (using API)
 
-- Using public availble NEWS API
+![alt text](image.png)
+
+- Using NEWS API
 
 - Created a News page with Cards
 
