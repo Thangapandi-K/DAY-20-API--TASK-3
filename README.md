@@ -6,4 +6,4 @@
 
 - Created a News page with Cards
 
-- [Click Here]() to preview the deplyed web preview
+- [Click Here](https://api-task-news-page.netlify.app/) to preview the deplyed web preview
